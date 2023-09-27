@@ -1,0 +1,3 @@
+T-test results:
+T-statistic: 7.886821828121118
+P-value: 3.0002746627893593e-07
