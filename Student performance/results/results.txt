@@ -1,0 +1,12 @@
+The dataset consists of 1000 rows of data and it will be hard to understand how certain factors will be impacting the results. As we are analysing the student performance, the data visulization made it easy to understand the trend in the data. 
+
+In the first analysis, a bar graph is plotted between parental level of education and writing score, and we can observe that parents with master's degree has the highest level of scores in the writing score. 
+
+In the second we are able to see that students who have taken the test preparation course have scored the highest. 
+
+In the third analysis, we can see that the group E race/ethnicity has high score. 
+
+In the fourth analysis, we can see that the students who has parents with master's degree or associate's degree or bachelor's degree has highest scores in reading and also can note that the students who has completed the test preparation course has high scores. 
+
+In the fifth analysis, we can see that again the 'group E' race/ethnicity has high score in reading and female has scored higher in all types of race/ethnicity compared to male. 
+
