@@ -1,0 +1,5 @@
+Handled the missing values in Mileage, Power, Engine, Seats.
+Replaced empty values with zero in New_Price.
+Removed units from Mileage, Engine, Power and New_Price.
+One hot encoded Fuel_Type, Transmission
+Added a new column, age. 
